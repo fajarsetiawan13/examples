@@ -2,3 +2,5 @@ Examples Files
 1. Apps
 2. Machine Learning
 3. Data Analytics
+4. Web Programming
+5. UI/UX Design
